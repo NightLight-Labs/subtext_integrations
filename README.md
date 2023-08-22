@@ -33,4 +33,4 @@ In this repository, there are a number of examples for how to send control messa
 is not meant as an exhaustive list, and there are almost certainly other ways for the servers in these examples to 
 provide timecode. These examples are meant as starting points and suggestions for getting your setup up and running.
 
-All of the examples presuppose a working konwledge of the server being demonstrated.
+All of the examples presuppose a working knowledge of the server being demonstrated as well as a functional node.
