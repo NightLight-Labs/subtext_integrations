@@ -1,2 +1,2 @@
 # Disguise x Subtext
-Instructions for how to use Subtext with Brightsign with an accompanying example
+Instructions for how to use Subtext with Disguise with an accompanying example
